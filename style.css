@@ -28,8 +28,8 @@ h2{
 ul{
     text-align: justify;
     font-size: medium;
-    margin-left: 13em;
-    margin-right: 13em;
+    margin-left: 30em;
+    margin-right: 30em;
 }
 .date{
     font-weight: bold;
@@ -37,12 +37,12 @@ ul{
 .pied{
     text-align: justify;
     font-size: medium;
-    margin-left: 13em;
-    margin-right: 13em;
+    margin-left: 30em;
+    margin-right: 30em;
 }
 footer{
     font-weight: bold;
-    margin-left: 5em;
+    margin-left: 20em;
 }
 a{
     color: rgb(106, 106, 206);
