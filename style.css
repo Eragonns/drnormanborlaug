@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(230, 230, 230);
+    
+}
+header{
+text-align: center;
+
+}
+figure{
+    background-color: white;
+    text-align: center;
+    padding-bottom: 1em;
+    font-size: 0.8em;
+}
+img{
+    height: 400px;
+}
+figcaption{
+    font-size: 0.9em;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    
+}
+h2{
+    text-align: center;
+    font-size: 1.1em;
+}
+ul{
+    text-align: justify;
+    font-size: medium;
+    margin-left: 13em;
+    margin-right: 13em;
+}
+.date{
+    font-weight: bold;
+}
+.pied{
+    text-align: justify;
+    font-size: medium;
+    margin-left: 13em;
+    margin-right: 13em;
+}
+footer{
+    font-weight: bold;
+    margin-left: 5em;
+}
+a{
+    color: rgb(106, 106, 206);
+
+}
+li{
+    margin: 1em;
+}
